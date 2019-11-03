@@ -1,12 +1,8 @@
 #### Example Add Persian/Arabic Text to image in Golang
-
-<p align="right">
-  <img src="image.jpg" title="WritePersianTextOnImageGolang">
+<p align="center">
+  <img src="image.jpg" title="WritePersianTextOnImageGolang" width="250">
+  <img src="new.jpg" title="WritePersianTextOnImageGolang" width="250">
 </p>
-<p align="left">
-  <img src="new.jpg" title="WritePersianTextOnImageGolang">
-</p>
-
 ```
 import "github.com/ghiac/bimg
 ```
