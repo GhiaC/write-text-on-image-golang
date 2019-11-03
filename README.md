@@ -3,9 +3,10 @@
   <img src="image.jpg" title="WritePersianTextOnImageGolang" width="250">
   <img src="new.jpg" title="WritePersianTextOnImageGolang" width="250">
 </p>
-```
+```go
 import "github.com/ghiac/bimg
 ```
+
 
 ```go
 buffer, err := bimg.Read("image.jpg")
